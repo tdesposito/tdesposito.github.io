@@ -1,7 +1,7 @@
 ![That's Me](https://avatars.githubusercontent.com/u/368027?s=60&v=4) Hi, I'm Todd, These are my various projects.
 
 ## EH-WebComponents
-Some simple [Web-Components](/EH-WebComponents) you can drop into your site without a build process. No NPM, no Yarn, nothing. Just add tags to your HTML and away you go.
+Some simple [Web-Components](https://tdesposito.github.io/EH-WebComponents) you can drop into your site without a build process. No NPM, no Yarn, nothing. Just add tags to your HTML and away you go.
 
 ## pyZohoAPI
 A Pythonic library for accessing the [Zoho Finance Suite API](https://pyZohoAPI.readthedocs.io)
