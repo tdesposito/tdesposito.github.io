@@ -6,6 +6,9 @@ Some simple [Web-Components](https://tdesposito.github.io/EH-WebComponents) you 
 ## pyZohoAPI
 A Pythonic library for accessing the [Zoho Finance Suite API](https://pyZohoAPI.readthedocs.io)
 
+## EH-mdServer
+A [tiny webserver](https://github.com/tdesposito/EH-mdServer) which serves HTML, CSS, JS, images, and converts MD to HTML on the fly. Kinda like GitPages, but local and small.
+
 ## Pi-Appliance
 A framework for building [Raspberry Pi appliances](https://github.com/tdesposito/Pi-Appliance)
 
